@@ -14,6 +14,7 @@
 		7200A1291EB040B900E40245 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7200A1271EB040B900E40245 /* LaunchScreen.storyboard */; };
 		7200A1341EB040B900E40245 /* jifenban2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7200A1331EB040B900E40245 /* jifenban2Tests.swift */; };
 		7200A13F1EB040B900E40245 /* jifenban2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7200A13E1EB040B900E40245 /* jifenban2UITests.swift */; };
+		7200A14D1EB0447B00E40245 /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7200A14C1EB0447B00E40245 /* timg.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7200A13A1EB040B900E40245 /* jifenban2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = jifenban2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7200A13E1EB040B900E40245 /* jifenban2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jifenban2UITests.swift; sourceTree = "<group>"; };
 		7200A1401EB040B900E40245 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7200A14C1EB0447B00E40245 /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = timg.jpeg; path = ../../timg.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		7200A11D1EB040B900E40245 /* jifenban2 */ = {
 			isa = PBXGroup;
 			children = (
+				7200A14C1EB0447B00E40245 /* timg.jpeg */,
 				7200A11E1EB040B900E40245 /* AppDelegate.swift */,
 				7200A1201EB040B900E40245 /* ViewController.swift */,
 				7200A1221EB040B900E40245 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				7200A1291EB040B900E40245 /* LaunchScreen.storyboard in Resources */,
 				7200A1261EB040B900E40245 /* Assets.xcassets in Resources */,
+				7200A14D1EB0447B00E40245 /* timg.jpeg in Resources */,
 				7200A1241EB040B900E40245 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
